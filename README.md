@@ -10,4 +10,42 @@ AIcademy is an app that uses AI to generate lessons of any subject and any level
 
 ## Set up
 
-TBD but will use expo, react native and typescript to make it multiplatform, available to iOS, Android and as a web app with a unique application.
+### 1. Prerequisites
+- **Node.js** (+v14) & npm
+- **Android Studio** + Android Virtual Device (ADV) for Android testing
+- **Xcode** (macOS only, for iOS testing)
+
+### 2. Clone & Install
+```bash
+git clone https://github.com/Adexux96/AIcademy.git
+cd AIcademy
+npm i
+```
+
+### 3. Run the app
+```bash
+npx expo start
+```
+
+### 4. Launch on emulator/device
+- **Android**
+  1. Put this command in your terminal:
+     ```bash
+     expo run:android
+     ```
+  2. Or press the key a while the terminal is open and the project is running.
+- **iOS**
+  1. Put this command in your terminal:
+     ```bash
+     expo run:ios
+     ```
+- **Web**
+  1. Put this command in your terminal:
+     ```bash
+     expo run:web
+     ```
+  2. Or press the key w while the terminal is open and the project is running.
+
+### 5. Troubleshooting
+- Ensure your Android emulator is running before launching it from expo in the terminal.
+- If you hit network issues, try restarting Metro bundler with `expo start -c` to clear cache.
