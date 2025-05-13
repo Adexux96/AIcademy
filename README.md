@@ -6,10 +6,10 @@
 
 ## 📚 Overview
 
-- 🤖 **AI-Generated lessons** - Custom content for any subject and difficulty level
-- 💬 **Intelligent chatbot** - Answers questions and provides additional explanations
-- 📝 **Personalized quizzes** - Test your knowledge with adaptive assessments
-- 📊 **Progress tracking** - Monitor your learning journey with detailed stats
+- 🤖 **AI-Generated lessons** - Custom content for any subject and difficulty level.
+- 💬 **Intelligent chatbot** - Answers questions and provides additional explanations.
+- 📝 **Personalized quizzes** - Test your knowledge with adaptive assessments.
+- 📊 **Progress tracking** - Monitor your learning journey with detailed stats.
 
 ## 🧠 Technology
 
